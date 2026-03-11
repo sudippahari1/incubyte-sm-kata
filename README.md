@@ -82,3 +82,4 @@ curl http://localhost:8000/metrics/country/India
 # Get job title avg
 curl http://localhost:8000/metrics/job-title/Software%20Engineer
 ```
+
